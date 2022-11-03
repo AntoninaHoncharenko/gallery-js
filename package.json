@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AntoninaHoncharenko.github.io/gallery-tui-pagination-js",
+  "homepage": "https://AntoninaHoncharenko.github.io/gallery-js",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /gallery-tui-pagination-js/"
+    "build": "parcel build src/*.html --public-url /gallery-js/"
   },
   "repository": {
     "type": "git",
